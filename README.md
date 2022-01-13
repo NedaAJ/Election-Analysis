@@ -21,5 +21,9 @@ The data was the election results in a csv file format with three columns: Ballo
 
 Here, you can see an image of summarized election results based on our analysis:
 
+![election_results](Resources/election_results.PNG)
 
+As you can see, the total number of this local congressional elections was 369,711 in which Denver had the highest number of votes in this election (306,055), winning 82.8% of the total votes. Jefferson county with 10.5% (38,855) and Arapahoe county with 6.7% (24,801) of the total votes are in second and third place.
+
+Amoung candidates, Diana DeGette had receieved highest number of votes, which was 272,892 votes, setting her as the winner candidate with 73.8% of the total votes. Candidates Charles Casper Stockham and Raymon Anthony Doane with 23% and 3.1% of the overall votes took second and third places. 
 
