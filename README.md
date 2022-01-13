@@ -28,6 +28,6 @@ As you can see, the *total number of votes* for this local congressional electio
 Among candidates, **Diana DeGette** had receieved highest number of votes, which was **272,892** votes, setting her as the **winner candidate** with ***73.8%*** of the total votes. Candidates **Charles Casper Stockham** and **Raymon Anthony Doane** with *23% (85,213 votes)* and *3.1% (11,606 votes)* of the overall votes took *second* and *third* places. 
 
 ## Election Audit Summary
-This script can be modified in a way which can find the highest number of votes within different categories other than candidate names and counties. If we had more data types like demographic description of the voters or their geolocation, we can modify the script to analyze these characteristics as well. 
+This script can be modified in a way which can find the highest number of votes within different categories other than candidate names and counties. If we had more data types like demographic description of the voters (like age, gender, income, ...) or their geolocation, we can modify the script to analyze these characteristics as well. 
 
 We can also modify this script in a way that it can gives us the *percentage of the votes per candidate per **county*** which would help us determine which candidate is most popular in each county.
