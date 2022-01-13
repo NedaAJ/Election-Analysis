@@ -62,6 +62,7 @@ with open(file_to_load) as election_data:
         # Save the final vote count to the text file.
         txt_file.write(Election_results)
 
+        winning_count=0
         # iterate through the candidate dictionary.
         for candidate_name in candidate_votes:
             #Retrieve vote count of a candidate
@@ -100,7 +101,3 @@ with open(file_to_load) as election_data:
 
         print(winning_candidate_summary)
         txt_file.write(winning_candidate_summary)
-
-
-
-
