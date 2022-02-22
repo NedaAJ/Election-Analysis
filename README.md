@@ -31,3 +31,7 @@ Among candidates, **Diana DeGette** had receieved highest number of votes, which
 This script can be modified in a way which can find the highest number of votes within different categories other than candidate names and counties. If we had more data types like demographic description of the voters (like age, gender, income, ...) or their geolocation, we can modify the script to analyze these characteristics as well. 
 
 We can also modify this script in a way that it can gives us the *percentage of the votes per candidate per **county*** which would help us determine which candidate is most popular in each county.
+
+## Contact:
+- Email : [neda.ahmadi.jesh@gmail.com](mailto:neda.ahmadi.jesh@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- Linkedin: www.linkedin.com/in/neda-ahmadi-j
